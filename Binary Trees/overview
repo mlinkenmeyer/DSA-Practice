@@ -1,0 +1,23 @@
+Free Code Camp: https://www.youtube.com/watch?v=fAAZixBzIAI
+
+Binary trees
+
+- contain many nodes, which can point to other nodes
+- we can store any value(s) in the nodes
+
+Common terms
+
+- parent nodes, child nodes (relative relationship) within a tree
+- root: a node with no parent (at the top of the tree)
+- leaf node: a node with no children (at the bottom of the tree)
+
+Binary - the word has to do with the number 2
+
+- a tree where every node has at most 2 children
+- has exactly 1 root - a single root with no parent
+- exactly 1 path between the root and any node
+
+Depth first version of "tree includes"
+
+- Start with base cases
+-
